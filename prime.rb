@@ -8,6 +8,6 @@ def prime?(number)
       end
     end
   end
-  true  # <= need explanation
+  true
 end
   
