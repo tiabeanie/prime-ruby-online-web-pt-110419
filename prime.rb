@@ -1,2 +1,4 @@
-def prime?(integer)
+def prime?(num)
+  sieve(num).include?(num)
+end
   
